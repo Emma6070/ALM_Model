@@ -1,8 +1,5 @@
 # ALM Model using Prophet
 
-## Licensing
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Dependencies
 - Prophet (MIT License)
 - pandas (BSD 3-Clause License)
